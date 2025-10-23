@@ -13,7 +13,7 @@ jobs:
 
 
       steps:
-        -name: checkout coed
+        -name: checkout code
         uses : actions/checkout@v2
 
         -name: print message
